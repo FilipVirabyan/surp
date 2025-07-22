@@ -5,7 +5,7 @@ body {
     height: 100vh;
     background-color: #fce4ec;
     margin: 0;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Monserrate';
 }
 
 #main-container {
@@ -98,7 +98,7 @@ body {
     position: absolute;
     bottom: -50px;
     font-size: 2rem;
-    color: #ff80ab;
+    color: #eaeaea;
     animation: floatUp 10s infinite linear;
 }
 

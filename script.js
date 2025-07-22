@@ -53,6 +53,6 @@ document.addEventListener('DOMContentLoaded', () => { // Replace with your actua
                 currentSlideIndex = (currentSlideIndex + 1) % slides.length;
                 showSlide();
             }, 500);
-        }, 3000);
+        }, 5000);
     });
 });
